@@ -1,0 +1,28 @@
+body {
+	font-size: 16px;
+	background-color:#fff;
+}
+code {
+	padding: .2em .4em;
+	margin: 0;
+	color: #337ab7;
+    font-size: 85%;
+    background-color:#f5f5f5;
+    border-radius: 3px;
+}
+
+code, pre{
+	font-family: 'Roboto', sans-serif;
+}
+.page-content, .blog_grid {
+    position: relative;
+    border-bottom: 0;
+    padding: 10px 20px 20px 20px;
+    background: #fff !important;
+    margin-bottom: 20px;
+}
+
+blockquote {
+	border-left: 3px solid #0096e0;
+	background: #f5f5f5;
+}
