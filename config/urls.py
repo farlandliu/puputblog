@@ -26,5 +26,5 @@ if settings.DEBUG:
     urlpatterns += staticfiles_urlpatterns() # tell gunicorn where static files are in dev mode
     urlpatterns += static(settings.MEDIA_URL + 'images/', document_root=os.path.join(settings.MEDIA_ROOT, 'images'))
     urlpatterns += [
-        path(r'favicon\.ico', RedirectView.as_view(url=settings.STATIC_URL + 'myapp/images/favicon.ico')),
+        path(r'favicon\.ico', RedirectView.as_view(url=settings.STATIC_URL + 'favicon.ico')),
     ]
