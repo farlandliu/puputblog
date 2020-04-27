@@ -152,8 +152,7 @@ class Common(Configuration):
 
     PUPUT_ENTRY_MODEL = 'puputcodeblock.models.EntryAbstract'
 
-    
-    WAGTAIL_SITE_NAME = 'Dev Blog'
+    WAGTAIL_SITE_NAME = 'My Blog'
     WAGTAIL_CODE_BLOCK_THEME = 'coy'
     WAGTAIL_CODE_BLOCK_LANGUAGES = (
             ('bash', 'Bash/Shell'),
