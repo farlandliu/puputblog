@@ -13,7 +13,7 @@ gunicorn==19.9.0
 Markdown==2.6.1
 Pillow==6.2.2
 psycopg2-binary==2.8.2
-wagtail==2.8
+wagtail==2.8.1
 puput==1.1.0
 Pygments==2.6.1
 wagtailcodeblock==1.17.1.0
