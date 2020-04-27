@@ -1,9 +1,9 @@
 # puputblog
 a puput blog with markdown and codeblock support.
 
-<img width="343" src="https://cdn.jsdelivr.net/gh/wagtail/wagtail@master/.github/wagtail.svg" alt="Wagtail">
+<img width="120" src="https://cdn.jsdelivr.net/gh/wagtail/wagtail@master/.github/wagtail.svg" alt="Wagtail">
 
-![puput](http://i.imgur.com/3ByGQb6.png)
+<img width="120" src="http://i.imgur.com/3ByGQb6.png" alt="puput">
 
 ## 设置开发环境
 
