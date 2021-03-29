@@ -22,7 +22,7 @@ Markdown==3.2.1
 Pillow==6.2.2
 psycopg2-binary==2.8.2
 puput==1.1.0
-Pygments==2.6.1
+Pygments==2.7.4
 pytz==2019.3
 requests==2.23.0
 six==1.14.0
@@ -58,7 +58,7 @@ Markdown==2.6.11
 Pillow==6.2.2
 psycopg2-binary==2.8.2
 puput==1.1.0
-Pygments==2.6.1
+Pygments==2.7.4
 pytz==2019.3
 requests==2.23.0
 six==1.14.0
