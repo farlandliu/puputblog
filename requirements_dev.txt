@@ -20,6 +20,6 @@ wagtailcodeblock==1.17.1.0
 whitenoise==4.1.2
 django-dotenv==1.4.2
 # dev
-django-debug-toolbar==2.2
+django-debug-toolbar==2.2.1
 Werkzeug==0.15.4
 flake8
