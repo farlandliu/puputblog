@@ -28,7 +28,7 @@ requests==2.23.0
 six==1.14.0
 sqlparse==0.3.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 wagtail==2.7.2
 webencodings==0.5.1
 Werkzeug==0.15.4
@@ -64,7 +64,7 @@ requests==2.23.0
 six==1.14.0
 sqlparse==0.3.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 wagtail==2.8
 wagtailcodeblock==1.17.1.0
 webencodings==0.5.1
