@@ -19,7 +19,7 @@ html5lib==1.0.1
 idna==2.9
 l18n==2018.5
 Markdown==3.2.1
-Pillow==6.2.2
+Pillow==8.2.0
 psycopg2-binary==2.8.2
 puput==1.1.0
 Pygments==2.6.1
@@ -55,7 +55,7 @@ html5lib==1.0.1
 idna==2.9
 l18n==2018.5
 Markdown==2.6.11
-Pillow==6.2.2
+Pillow==8.2.0
 psycopg2-binary==2.8.2
 puput==1.1.0
 Pygments==2.6.1
